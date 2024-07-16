@@ -50,7 +50,6 @@ export const DropdownContainerStyled = styled.div`
 export const DropdownStyled = styled(AccountButtonDropdown)<{ hidden: boolean }>`
     box-sizing: border-box;
     overflow: hidden;
-    margin-top: 12px;
 `;
 
 export const NotificationsStyled = styled(Notifications)`
